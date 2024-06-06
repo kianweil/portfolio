@@ -1,0 +1,92 @@
+category,item,energy_kcal,protein_g,totalfat_g,saturatedfat_g,cholesterol_mg,carbohydrates_g,dietaryfibres_g,sodium_mg,egg,fish,milk,peanuts,soyabeans,treenuts,wheat,gluten,msg,sulphite
+beverages,Dasani® Drinking Water,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False
+beverages,Coca-Cola® Original Taste Less Sugar (Small),109,0,0,0,0,27,0,7,False,False,False,False,False,False,False,False,False,False
+beverages,Coca-Cola® Original Taste Less Sugar (Medium),152,0,0,0,0,38,0,10,False,False,False,False,False,False,False,False,False,False
+beverages,Coca-Cola® Original Taste Less Sugar (Large),221,0,0,0,0,55,0,15,False,False,False,False,False,False,False,False,False,False
+beverages,Coca-Cola® Zero Sugar (Small),0,0,0,0,0,0,0,29,False,False,False,False,False,False,False,False,False,False
+beverages,Coca-Cola® Zero Sugar (Medium),0,0,0,0,0,0,0,40,False,False,False,False,False,False,False,False,False,False
+beverages,Coca-Cola® Zero Sugar (Large),0,0,0,0,0,0,0,58,False,False,False,False,False,False,False,False,False,False
+beverages,Sprite® (Small),80,0,0,0,0,20,0,47,False,False,False,False,False,False,False,False,False,False
+beverages,Sprite® (Medium),112,0,0,0,0,27,0,65,False,False,False,False,False,False,False,False,False,False
+beverages,Sprite® (Large),163,0,0,0,0,40,0,95,False,False,False,False,False,False,False,False,False,False
+beverages,Iced MILO® (Small),227,7,6,3,4,36,2,132,False,False,True,False,True,False,False,True,False,True
+beverages,Iced MILO® (Medium),322,10,9,4,5,51,3,187,False,False,True,False,True,False,False,True,False,True
+beverages,Jasmine Green Tea (Small),62,0,0,0,0,15,0,22,False,False,False,False,False,False,False,False,False,False
+beverages,Jasmine Green Tea (Medium),86,0,0,0,0,21,0,30,False,False,False,False,False,False,False,False,False,False
+beverages,Iced Lemon Tea (Small),66,0,0,0,0,16,0,11,False,False,False,False,False,False,False,False,False,False
+beverages,Iced Lemon Tea (Medium),91,0,0,0,0,22,0,15,False,False,False,False,False,False,False,False,False,False
+beverages,100% Pure Orange Juice (Small) ,193,2,0,0,0,45,0,0,False,False,False,False,False,False,False,False,False,False
+beverages,100% Pure Orange Juice (Junior) ,145,2,0,0,0,34,0,0,False,False,False,False,False,False,False,False,False,False
+beverages,Low-Fat Hi-Calcium Milk,96,7,3,2,10,10,0,98,False,False,True,False,False,False,False,False,False,False
+beverages,Hot MILO® ,192,5,4,2,4,33,2,153,False,False,True,False,True,False,False,True,False,False
+beverages,Hot Tea ,4,1,0,0,0,0,0,3,False,False,False,False,False,False,False,False,False,False
+beverages,McCafé® Premium Roast Coffee,14,3,0,0,0,0,0,2,False,False,False,False,False,False,False,False,False,False
+beverages,McCafé® Cappuccino,166,9,9,7,0,13,0,0,False,False,True,False,False,False,False,False,False,False
+beverages,McCafé® Latte,182,10,10,7,0,14,0,0,False,False,True,False,False,False,False,False,False,False
+beverages,McCafé Iced Latte,237,7,8,6,0,36,0,21,False,False,True,False,False,False,False,False,False,False
+beverages,Mocha Frappé (Small),279,5,11,6,32,39,0,206,False,False,True,False,False,False,False,False,False,False
+beverages,Mocha Frappé (Medium),406,7,16,9,46,58,0,301,False,False,True,False,False,False,False,False,False,False
+beverages,Caramel Frappé (Small),235,4,8,5,26,34,0,199,False,False,True,False,False,False,False,False,False,False
+beverages,Caramel Frappé (Medium),342,6,12,7,38,50,0,291,False,False,True,False,False,False,False,False,False,False
+beverages,Double Chocolate Frappe (Small),267,4,9,6,0,41,1,214,False,False,True,False,False,False,True,True,False,False
+beverages,Double Chocolate Frappe (Medium),393,6,13,9,0,60,2,315,False,False,True,False,False,False,True,True,False,False
+breakfast,Big Breakfast® ,496,27,22,6,418,47,5,971,True,False,False,False,True,False,True,True,False,False
+breakfast,Breakfast Deluxe,805,31,29,10,487,104,6,1123,True,False,True,False,True,False,True,True,False,False
+breakfast,Hotcakes,557,9,18,6,20,91,3,685,True,False,True,False,True,False,True,True,False,False
+breakfast,Hotcakes with Sausage,619,16,21,7,51,92,4,974,True,False,True,False,True,False,True,True,False,False
+breakfast,Breakfast Wrap Chicken Sausage,472,22,24,9,236,44,5,1353,True,False,True,False,True,False,True,True,False,False
+breakfast,Breakfast Wrap Chicken Ham,430,17,21,8,222,43,4,1201,True,False,True,False,True,False,True,True,False,False
+breakfast,Egg McMuffin® ,289,18,11,5,236,29,3,574,True,False,True,False,True,False,True,True,False,False
+breakfast,Chicken Muffin ,407,16,21,6,49,38,4,847,True,False,True,False,True,False,True,True,False,False
+breakfast,Sausage McMuffin® ,258,16,9,4,43,29,4,653,False,False,True,False,True,False,True,True,False,False
+breakfast,Chicken Muffin with Egg,481,23,26,7,256,39,4,921,True,False,True,False,True,False,True,True,False,False
+breakfast,Sausage McMuffin® with Egg,337,23,14,6,264,30,4,732,True,False,True,False,True,False,True,True,False,False
+mains,Quarter Pounder® with Cheese,507,32,25,13,89,38,3,1265,False,False,True,False,True,False,True,True,False,False
+mains,Double Quarter Pounder® with Cheese,717,50,40,20,154,39,4,1698,False,False,True,False,True,False,True,True,False,False
+mains,Cheeseburger,303,16,12,6,40,32,2,860,False,False,True,False,True,False,True,True,False,False
+mains,Double Cheeseburger ,443,27,22,12,79,34,3,1360,False,False,True,False,True,False,True,True,False,False
+mains,McSpicy®,541,23,28,6,76,50,4,1269,True,False,False,False,True,False,True,True,True,False
+mains,Double McSpicy® ,833,38,46,9,140,66,6,2161,True,False,False,False,True,False,True,True,True,False
+mains,Filet-O-Fish®,332,15,13,5,36,38,2,562,True,True,True,False,True,False,True,True,False,False
+mains,Double Filet-O-Fish® ,466,24,20,8,64,48,3,756,True,True,True,False,True,False,True,True,False,False
+mains,Hamburger ,253,14,8,4,28,31,2,690,False,False,False,False,True,False,True,True,False,False
+mains,McChicken® ,391,15,18,3,38,42,2,751,True,False,False,False,True,False,True,True,False,False
+mains,Big Mac®,558,28,28,11,68,48,4,1321,True,False,True,False,True,False,True,True,False,False
+mains,Buttermilk Crispy Chicken,739,26,42,7,65,64,4,1422,True,False,True,False,True,False,True,True,True,False
+desserts,Apple Pie ,231,1,12,6,1,29,1,185,False,False,False,False,True,False,True,True,False,False
+desserts,Vanilla Cone,133,3,4,2,2,22,0,56,False,False,True,False,True,False,True,True,False,True
+desserts,ChocoCone®,281,3,16,10,2,31,1,65,False,False,True,False,True,False,True,True,False,True
+desserts,Hot Fudge Sundae ,314,6,10,7,3,49,1,168,False,False,True,False,True,False,False,False,False,False
+desserts,Strawberry Sundae ,261,5,6,3,4,47,0,84,False,False,True,False,False,False,False,False,False,True
+desserts,OREO® McFlurry® ,368,7,13,6,5,56,1,221,False,False,True,False,True,False,True,True,False,False
+desserts,Mudpie McFlurry®,493,9,17,10,5,76,1,314,False,False,True,False,True,False,True,True,False,False
+desserts,Strawberry Shortcake McFlurry®,440,7,13,6,5,74,1,230,False,False,True,False,True,False,True,True,False,True
+desserts,Chocolate Shake ,387,10,10,5,7,65,1,207,False,False,True,False,False,False,False,False,False,True
+desserts,Strawberry Shake ,381,9,9,5,7,65,0,134,False,False,True,False,False,False,False,False,False,True
+desserts,Vanilla Shake ,378,9,10,5,7,63,0,132,False,False,True,False,False,False,False,False,False,True
+family,Cheeseburger Happy Meal®,386,25,14,7,1,56,3,820,False,False,True,False,True,False,True,True,False,False
+family,Chicken McNuggets® (4pc) Happy Meal®,204,10,12,1,33,13,1,378,False,False,False,False,True,False,True,True,False,False
+family,Family Meal (Cheeseburger),0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False
+family,Family Meal (McNuggets®),0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False
+family,Hotcakes (2pc) Happy Meal®,430,6,15,5,14,69,2,501,True,False,True,False,True,False,True,True,False,False
+family,Scrambled Egg Burger Junior Happy Meal®,299,18,11,4,388,32,2,476,True,False,False,False,True,False,True,True,False,False
+family,Breakfast Family Meal,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False
+mains,Chicken McCrispy® (2pc),689,39,41,8,135,42,3,1895,True,False,False,False,True,False,True,True,False,False
+sharing,Chicken McCrispy® (6pc),2068,117,122,25,406,125,10,5685,True,False,False,False,True,False,True,True,False,False
+sharing,Happy Sharing Box® A ,1730,101,109,20,480,85,6,3698,True,False,False,False,True,False,True,True,False,False
+sharing,Happy Sharing Box® B ,865,50,54,10,240,43,3,1849,True,False,False,False,True,False,True,True,False,False
+mains,Grilled Chicken McWrap®,361,23,18,5,83,29,3,992,True,False,False,False,True,False,True,True,False,False
+mains,Grilled Chicken Salad,173,20,7,2,72,7,1,533,True,False,False,False,True,False,True,True,False,False
+sides,Garden Side Salad ,21,1,0,0,0,4,1,10,False,False,False,False,False,False,False,False,False,False
+mains,Chicken McNuggets® (6pc),273,14,16,2,44,17,1,506,False,False,False,False,True,False,True,True,False,False
+mains,Chicken McNuggets® (9pc),409,21,24,3,66,26,2,759,False,False,False,False,True,False,True,True,False,False
+sides,Chicken McNuggets® (20pc),910,46,54,7,147,57,4,1686,False,False,False,False,True,False,True,True,False,False
+sides,McWings® (2pc),302,17,20,4,87,12,2,682,True,False,False,False,True,False,True,True,False,False
+mains,McWings® (4pc),603,35,41,8,175,25,3,1363,True,False,False,False,True,False,True,True,False,False
+sides,Apple Slices ,30,0,0,0,1,7,1,17,False,False,False,False,False,False,False,False,False,False
+sides,French Fries (Small),315,4,17,5,1,37,4,193,False,False,False,False,True,False,False,False,False,False
+sides,French Fries (Medium),384,5,20,6,1,46,5,236,False,False,False,False,True,False,False,False,False,False
+sides,French Fries (Large),512,6,27,8,1,61,6,314,False,False,False,False,True,False,False,False,False,False
+sides,Corn Cup (3oz),66,2,1,0,0,12,2,67,False,False,True,False,False,False,False,False,False,False
+sides,Corn Cup (4.5oz),100,4,1,0,0,18,3,101,False,False,True,False,False,False,False,False,False,False
+sides,Hash Brown,149,1,8,1,0,17,1,351,False,False,False,False,True,False,False,False,False,False
