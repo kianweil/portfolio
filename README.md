@@ -2,7 +2,7 @@
 
 ## About
 
-This repository showcases a couple of ML / data related projects I have worked on. The various projects are a culmination of me wanting to explore interesting datasets or ML models.
+This repository showcases a couple of ML / data related projects I have worked on, or interesting datasets I wanted to explore.
 
 ## Projects
 
