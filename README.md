@@ -12,6 +12,7 @@ This repository showcases a couple of ML / data related projects I have worked o
 - **Description**: Hypothesis testing to determine if `Category` and `Platform` are independent of one another, strength of association etc
 - **Libraries**: pandas, numpy, scipy
 - **Acknowledgements**: Data courtesy, provided via [Online Courses Usage and History Dataset](https://www.kaggle.com/datasets/mitul1999/online-courses-usage-and-history-dataset) on Kaggle
+- [Link](python/hypothesis_testing/chi2/online_courses/online_courses.ipynb)
 
 ### 2. Hypothesis testing (T-test) on SG Temperature Data
 
