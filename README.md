@@ -7,7 +7,7 @@ This repository showcases a couple of ML / data related projects I have worked o
 ## Projects
 
 
-### 1. Hypothesis Testing
+### 1. Hypothesis Testing (T-test)
 
 - **Description**: Hypothesis testing to determine if SG's mean temperature has risen in the past 10 years (2023 vs 2013).
 - **Libraries**: pandas, numpy, seaborn, matplotlib, scipy
