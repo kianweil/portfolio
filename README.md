@@ -26,7 +26,7 @@ This repository showcases a couple of ML / data related projects I have worked o
 - **Description**: Using random forest regression model to predict Hokkaido's future temperature using NOAA dataset from Japan Meteorological Agency.
 - **Libraries**: pandas, numpy, sklearn, matplotlib, datetime
 - **Acknowledgements**: Data courtesy of NOAA
-- [Link](python/machine_learning/random_forest/temp_prediction/hokkaido.ipynb)
+- [Link](python/machine_learning/randomforest_regression/temp_prediction/hokkaido.ipynb)
 
 ### 4. Scraping Data from MCD SG's Online Menu
 
