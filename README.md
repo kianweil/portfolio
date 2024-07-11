@@ -12,7 +12,7 @@ This repository showcases a couple of ML / data related projects I have worked o
 - **Description**: Hypothesis testing to determine if SG's mean temperature has risen in the past 10 years (2023 vs 2013).
 - **Libraries**: pandas, numpy, seaborn, matplotlib, scipy
 - **Acknowledgements**: Data courtesy of National Environment Agency (NEA), Singapore
-- [Link](python/hypothesis_testing/sg_temp/sg_temp.ipynb)
+- [Link](python/hypothesis_testing/ttest/sg_temp/sg_temp.ipynb)
 
 ### 2. Predicting GPA with Multiple Regression
 
