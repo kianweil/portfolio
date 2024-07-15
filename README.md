@@ -1,11 +1,12 @@
 # Projects Portfolio
 
+
 ## About
 
 This repository showcases a couple of ML / data related projects I have worked on, or interesting datasets I wanted to explore.
 
-## Projects
 
+## Projects
 
 ### 1. Hypothesis Testing (ANOVA) on Penguins Data
 
