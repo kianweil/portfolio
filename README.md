@@ -34,13 +34,19 @@ This repository showcases a couple of ML / data related projects I have worked o
 - **Libraries**: pandas, numpy, matplotlib, seaborn, statsmodels, sklearn
 - **Acknowledgements**: Data courtesy, provided via [Students Performance Dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset/discussion/513482) on Kaggle
 
-### 5. [Predicting Temperature with Random Forest Regression](python/aiml/machine_learning/randomforest_regression/temp_pred/hokkaido_rfreg.ipynb)
+### 5. [Predicting Hiring Decisions with Binomial Logistic Regression](python/aiml/statistical_models/logistic_regression/recruitment/recruitment_logreg.ipynb)
+
+- **Description**: Fit a model to predict hiring decisions based on candidate features to enhance hiring efficiency and identify areas for improvement in the hiring process
+- **Libraries**: pandas, matplotlib, seaborn, sklearn
+- **Acknowledgements**: Data courtesy of Rabie El Kharoua, provided via [Predicting Hiring Decisions in Recruitment Data](https://www.kaggle.com/datasets/rabieelkharoua/predicting-hiring-decisions-in-recruitment-data) on Kaggle
+
+### 6. [Predicting Temperature with Random Forest Regression](python/aiml/machine_learning/randomforest_regression/temp_pred/hokkaido_rfreg.ipynb)
 
 - **Description**: Using random forest regression model to predict Hokkaido's future temperature using NOAA dataset from Japan Meteorological Agency.
 - **Libraries**: pandas, numpy, sklearn, matplotlib, datetime
 - **Acknowledgements**: Data courtesy of NOAA
 
-### 6. [Scraping Data from MCD SG's Online Menu](python/web_scraping/mcd/mcd_menu.ipynb)
+### 7. [Scraping Data from MCD SG's Online Menu](python/web_scraping/mcd/mcd_menu.ipynb)
 
 - **Description**: Scraping data from MCD SG's online menu, conducting basic EDA and storing it in a structured format for further analysis.
 - **Libraries**: BeautifulSoup, requests, time, pandas, numpy, seaborn, matplotlib
