@@ -18,7 +18,7 @@ This repository showcases a couple of ML / data related projects I have worked o
 
 ### 2. [Hypothesis Testing (Chi2) on Online Courses Data](python/hypothesis_testing/chi2/online_courses/online_courses_chi2.ipynb)
 
-- **Description**: Hypothesis testing to determine if `Category` and `Platform` are independent of one another, strength of association etc
+- **Description**: Hypothesis testing to determine if category and platform are independent of one another, strength of association etc
 - **Libraries**: pandas, numpy, scipy
 - **Acknowledgements**: Data courtesy, provided via [Online Courses Usage and History Dataset](https://www.kaggle.com/datasets/mitul1999/online-courses-usage-and-history-dataset) on Kaggle
 
