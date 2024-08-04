@@ -28,19 +28,19 @@ This repository showcases a couple of ML / data related projects I have worked o
 - **Libraries**: pandas, numpy, seaborn, matplotlib, scipy
 - **Acknowledgements**: Data courtesy of National Environment Agency (NEA), Singapore
 
-### 4. [Predicting GPA with Multiple Regression](python/aiml/statistical_models/linear_regression/gpa_pred/gpa_pred_linreg.ipynb)
+### 4. [Predicting GPA with Multiple Regression](python/machine_learning/supervised_learning/linear_regression/gpa_pred/gpa_pred_linreg.ipynb)
 
 - **Description**: Determine suitable independent variables and develop a multiple regression model to predict students' GPA
 - **Libraries**: pandas, numpy, matplotlib, seaborn, statsmodels, sklearn
 - **Acknowledgements**: Data courtesy, provided via [Students Performance Dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset/discussion/513482) on Kaggle
 
-### 5. [Predicting Hiring Decisions with Binomial Logistic Regression](python/aiml/statistical_models/logistic_regression/recruitment/recruitment_logreg.ipynb)
+### 5. [Predicting Hiring Decisions with Binomial Logistic Regression](python/machine_learning/supervised_learning/logistic_regression/recruitment/recruitment_logreg.ipynb)
 
 - **Description**: Fit a model to predict hiring decisions based on candidate features to enhance hiring efficiency and identify areas for improvement in the hiring process
 - **Libraries**: pandas, matplotlib, seaborn, sklearn
 - **Acknowledgements**: Data courtesy of Rabie El Kharoua, provided via [Predicting Hiring Decisions in Recruitment Data](https://www.kaggle.com/datasets/rabieelkharoua/predicting-hiring-decisions-in-recruitment-data) on Kaggle
 
-### 6. [Predicting Temperature with Random Forest Regression](python/aiml/machine_learning/randomforest_regression/temp_pred/hokkaido_rfreg.ipynb)
+### 6. [Predicting Temperature with Random Forest Regression](python/machine_learning/supervised_learning/randomforest_regression/temp_pred/hokkaido_rfreg.ipynb)
 
 - **Description**: Using random forest regression model to predict Hokkaido's future temperature using NOAA dataset from Japan Meteorological Agency.
 - **Libraries**: pandas, numpy, sklearn, matplotlib, datetime
