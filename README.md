@@ -34,7 +34,7 @@ This repository showcases a couple of data related projects I have worked on, or
 - **Libraries**: pandas, numpy, seaborn, matplotlib, scipy
 - **Acknowledgements**: Data courtesy of National Environment Agency (NEA), Singapore
 
-### 5. [Predicting GPA with Mmltiple regression](python/machine_learning/supervised_learning/linear_regression/gpa_pred/gpa_pred_linreg.ipynb)
+### 5. [Predicting GPA with multiple regression](python/machine_learning/supervised_learning/linear_regression/gpa_pred/gpa_pred_linreg.ipynb)
 
 - **Description**: Determine suitable independent variables and develop a multiple regression model to predict students' GPA
 - **Libraries**: pandas, numpy, matplotlib, seaborn, statsmodels, sklearn
