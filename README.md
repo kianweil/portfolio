@@ -58,3 +58,8 @@ This repository showcases a couple of data related projects I have worked on, or
 - **Libraries**: BeautifulSoup, requests, time, pandas, numpy, seaborn, matplotlib
 - **Acknowledgements**: Data courtesy of Mcdonald's SG
 
+### 9. [Song recommendation system with k-means and k-nearest neighbors](python/machine_learning/unsupervised_learning/song_rec/song_rec.ipynb)
+
+- **Description**: Cluster songs with k-means and use KNN to generate recommended songs for a playlist
+- **Libraries**: pandas, seaborn, matplotlib, sklearn
+- **Acknowledgements**: Data courtesy of Spotify, provided via [Spotify Tracks DB](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db/data) on Kaggle
