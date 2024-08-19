@@ -1,4 +1,4 @@
-# Predicting Hiring Decisions with Binomial Logistic Regression
+# Predicting hiring decisions with binomial logistic regression
 
 - **Description**: Fit a model to predict hiring decisions based on candidate features to enhance hiring efficiency and identify areas for improvement in the hiring process
 - **Libraries**: pandas, matplotlib, seaborn, sklearn
