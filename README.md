@@ -4,7 +4,7 @@
 
 ## About
 
-This repository showcases a couple of data related projects I have worked on, or interesting datasets I wanted to explore.
+This repository showcases a couple of data related projects I have worked on and interesting datasets I wanted to explore.
 
 <br>
 
