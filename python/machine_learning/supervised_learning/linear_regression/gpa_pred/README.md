@@ -1,4 +1,4 @@
-# Predicting GPA with Multiple Regression
+# Predicting GPA with multiple regression
 
 - **Description**: Determine suitable independent variables and develop a multiple regression model to predict students' GPA
 - **Libraries**: pandas, numpy, matplotlib, seaborn, statsmodels, sklearn
