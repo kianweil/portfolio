@@ -46,9 +46,9 @@ This repository showcases a couple of data related projects I have worked on and
 - **Libraries**: pandas, matplotlib, seaborn, sklearn
 - **Acknowledgements**: Data courtesy of Rabie El Kharoua, provided via [Predicting Hiring Decisions in Recruitment Data](https://www.kaggle.com/datasets/rabieelkharoua/predicting-hiring-decisions-in-recruitment-data) on Kaggle
 
-### 7. [Predicting temperature with random forest regression](python/machine_learning/supervised_learning/randomforest_regression/temp_pred/hokkaido_rfreg.ipynb)
+### 7. [Predicting temperature with random forest regressor](python/machine_learning/supervised_learning/randomforest_regressor/temp_pred/hokkaido_rfreg.ipynb)
 
-- **Description**: Using random forest regression model to predict Hokkaido's future temperature using NOAA dataset from Japan Meteorological Agency.
+- **Description**: Using random forest regressor model to predict Hokkaido's future temperature using NOAA dataset from Japan Meteorological Agency.
 - **Libraries**: pandas, numpy, sklearn, matplotlib, datetime
 - **Acknowledgements**: Data courtesy of NOAA
 
